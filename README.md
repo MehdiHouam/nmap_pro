@@ -107,12 +107,12 @@ scan.json         → données structurées
 scan_summary.txt  → résumé lisible
 report.html       → rapport visuel professionnel
 
-# Rapide Resultat
+ Rapide Resultat
 Resultat dans le meme dossier ou se trouve votre fichier ./nmap_pro_obf.sh
 <img width="407" height="193" alt="Capture d’écran 2025-11-09 à 14 15 10" src="https://github.com/user-attachments/assets/9ddb0dd2-a872-4402-9d18-10380d781dbf" />
 
 
-# Global Resultat
+ Global Resultat
 Resultat dans home > user > nmap_pro_scans/
 <img width="623" height="397" alt="Capture d’écran 2025-11-09 à 14 00 46" src="https://github.com/user-attachments/assets/3b81fede-1279-4be5-90c3-896f43cc9aa0" />
 ou en ligne de commande 
