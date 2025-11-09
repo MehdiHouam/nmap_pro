@@ -87,7 +87,6 @@ Tutoriel interactif : ```bash nmap_pro --tutorial ```
 
 <img width="519" height="603" alt="Capture d’écran 2025-11-09 à 13 42 04" src="https://github.com/user-attachments/assets/f538dda0-89ec-4145-a753-85de31b0e0e2" />
 
-
 OU
 
 Mode Interactif Facile : 
@@ -107,13 +106,11 @@ scan.json         → données structurées
 scan_summary.txt  → résumé lisible
 report.html       → rapport visuel professionnel
 
- Rapide Resultat
-Resultat dans le meme dossier ou se trouve votre fichier ./nmap_pro_obf.sh
+Rapide Resultat dans le meme dossier ou se trouve votre fichier ./nmap_pro_obf.sh
 <img width="407" height="193" alt="Capture d’écran 2025-11-09 à 14 15 10" src="https://github.com/user-attachments/assets/9ddb0dd2-a872-4402-9d18-10380d781dbf" />
 
 
- Global Resultat
-Resultat dans home > user > nmap_pro_scans/
+Global Resultat dans home > user > nmap_pro_scans/
 <img width="623" height="397" alt="Capture d’écran 2025-11-09 à 14 00 46" src="https://github.com/user-attachments/assets/3b81fede-1279-4be5-90c3-896f43cc9aa0" />
 ou en ligne de commande 
 ```bash cd ~/nmap_pro_scans ```
@@ -165,7 +162,7 @@ GitHub : ```bash @mehdihouam￼```
 
 📜 Licence
 
-MIT License — libre d’utilisation, de modification et de distribution, à condition de mentionner l’auteur.
+MIT License — libre d’utilisation et de distribution, à condition de mentionner l’auteur Mehdi Houam.
 
 
 
