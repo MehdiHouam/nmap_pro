@@ -36,14 +36,25 @@ Il offre une **interface interactive**, des **rapports HTML complets**, un **his
 
 rapide : 
 ```bash
+chmod +x nmap_pro_obf.sh
+```
+Lancer Le programme depuis le dossier contenant le fichier nmap_pro_obf.sh: 
 
+```bash
+./nmap_pro_obf.sh
 ```
 OU
 
 Global :
 ```bash
-
+chmod +x install.sh
 ```
+Lancer Le programme n'importe ou sur votre terminal avec : 
+
+```bash
+nmap_pro
+```
+
 ⸻
 
 🧠 Exemples d’utilisation 
