@@ -111,13 +111,9 @@ report.html       → rapport visuel professionnel
 
 📚 Pré-requis
 
-Installer les dépendances nécessaires :
+Installer les dépendances nécessaires (déja existant dans kali linux) :
 
-```bash sudo apt install nmap python3 sqlite3 gpg tar ```
-
-Optionnel :
-
-```bash sudo apt install jq curl wget ```
+```bash sudo apt install nmap python3 sqlite3 tar ```
 
 ⸻
 
@@ -131,7 +127,7 @@ Vous pouvez consulter l’historique avec :
 
 ```bash nmap_pro --list-scans ```
 
-Vous pouvez consulter l’historique avec h en interactif sur le menu 'h' :
+Vous pouvez consulter l’historique avec h en interactif sur le menu :
 <img width="510" height="211" alt="Capture d’écran 2025-11-09 à 13 46 38" src="https://github.com/user-attachments/assets/f2b2be54-2137-424e-84ab-2fdb51907101" />
 
 ⸻
