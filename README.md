@@ -156,7 +156,7 @@ Vous pouvez consulter l’historique avec h en interactif sur le menu :
 
 Mehdi Houam
 Email : mehdihouam19@gmail.com 
-GitHub : @mehdihouam
+GitHub : @MehdiHouam
 
 ⸻
 
