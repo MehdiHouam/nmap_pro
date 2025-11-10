@@ -155,8 +155,8 @@ Vous pouvez consulter l’historique avec h en interactif sur le menu :
 🧑‍💻 Auteur
 
 Mehdi Houam
-Email : ```bash mehdihouam19@gmail.com ```￼
-GitHub : ```bash @mehdihouam￼```
+Email : mehdihouam19@gmail.com 
+GitHub : @mehdihouam
 
 ⸻
 
